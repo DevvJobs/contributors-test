@@ -1,2 +1,11 @@
-# contributors-test
-Testing how code of conduct and such affect github's display of public repo.
+## Guidelines
+
+- [Contributors guideline](./docs/CONTRIBUTING.md)
+
+## Community rules
+
+- [Code of conduct](./CODE_OF_CONDUCT.md)
+
+## License
+
+- [See LICENSE.md](./LICENSE.md)
